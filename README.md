@@ -132,3 +132,7 @@ Error responses include detailed messages to help diagnose issues.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+MIT License
