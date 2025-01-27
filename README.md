@@ -4,7 +4,7 @@ An MCP server that generates AI agent tools from Postman collections and request
 
 Model Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, we provide an installer as well as an MCP Server for [Postman Tool Generation API](https://api.getpostman.com/postbot/generations/tool).
 
-This lets you use Claude Desktop, or any MCP Client like Cline, to use natural language to accomplish things on your Postman account, e.g.:
+This lets you use [Claude Desktop](https://claude.ai/download), or any MCP Client like [Cline](https://github.com/cline/cline), to use natural language to accomplish things on your Postman account, e.g.:
 
 * `Create an AI tool for:
 collectionID: 12345-abcde
