@@ -14,6 +14,8 @@ requestID: 67890-fghij
 typescript
 openai`
 
+<a href="https://glama.ai/mcp/servers/36hxinm405"><img width="380" height="200" src="https://glama.ai/mcp/servers/36hxinm405/badge" alt="Postman Tool Generation Server MCP server" /></a>
+
 ## Features
 
 - Generate TypeScript/JavaScript code from Postman collections
