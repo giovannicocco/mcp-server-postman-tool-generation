@@ -23,6 +23,7 @@ openai`
 
 <div align="center">
   <a href="https://youtu.be/G1O9ECYRk1M" alt="Demonstrating the newly-released MCP server to explore Postman Tool Generation API">
+    <img src="https://img.youtube.com/vi/G1O9ECYRk1M/maxresdefault.jpg" alt="Demonstrating the newly-released MCP server to explore Postman Tool Generation API" width="600"/>
   </a>
 </div>
 
