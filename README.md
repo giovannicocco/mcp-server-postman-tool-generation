@@ -19,6 +19,13 @@ openai`
 - Type-safe code generation
 - Error handling and response validation
 
+## Demo
+
+<div align="center">
+  <a href="https://youtu.be/G1O9ECYRk1M" alt="Demonstrating the newly-released MCP server to explore Postman Tool Generation API">
+  </a>
+</div>
+
 ## Setup
 
 1. Install dependencies:
