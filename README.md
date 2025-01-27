@@ -2,6 +2,8 @@
 
 An MCP server that generates AI agent tools from Postman collections and requests. This server integrates with the Postman API to convert API endpoints into type-safe code that can be used with various AI frameworks.
 
+<a href="https://www.producthunt.com/posts/mcp-server-for-postman-ai-tool-generator?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-mcp&#0045;server&#0045;for&#0045;postman&#0045;ai&#0045;tool&#0045;generator" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=824239&theme=dark&t=1737988039824" alt="MCP&#0032;Server&#0032;for&#0032;Postman&#0032;AI&#0032;Tool&#0032;Generator - Convert&#0032;Postman&#0032;APIs&#0032;into&#0032;type&#0045;safe&#0032;AI&#0032;tools&#0032;seamlessly&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 Model Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, we provide an installer as well as an MCP Server for [Postman Tool Generation API](https://api.getpostman.com/postbot/generations/tool).
 
 This lets you use [Claude Desktop](https://claude.ai/download), or any MCP Client like [Cline](https://github.com/cline/cline), to use natural language to accomplish things on your Postman account, e.g.:
