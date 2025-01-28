@@ -1,5 +1,6 @@
 # Postman Tool Generation MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@giovannicocco/mcp-server-postman-tool-generation)](https://smithery.ai/server/@giovannicocco/mcp-server-postman-tool-generation)
 An MCP server that generates AI agent tools from Postman collections and requests. This server integrates with the Postman API to convert API endpoints into type-safe code that can be used with various AI frameworks.
 
 <a href="https://www.producthunt.com/posts/mcp-server-for-postman-ai-tool-generator?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-mcp&#0045;server&#0045;for&#0045;postman&#0045;ai&#0045;tool&#0045;generator" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=824239&theme=dark&t=1737988039824" alt="MCP&#0032;Server&#0032;for&#0032;Postman&#0032;AI&#0032;Tool&#0032;Generator - Convert&#0032;Postman&#0032;APIs&#0032;into&#0032;type&#0045;safe&#0032;AI&#0032;tools&#0032;seamlessly&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
@@ -33,6 +34,15 @@ openai`
 
 ## Setup
 
+### Installing via Smithery
+
+To install Postman Tool Generation Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@giovannicocco/mcp-server-postman-tool-generation):
+
+```bash
+npx -y @smithery/cli install @giovannicocco/mcp-server-postman-tool-generation --client claude
+```
+
+### Installing Manually
 1. Install dependencies:
 ```bash
 npm install
